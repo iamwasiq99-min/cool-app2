@@ -1,0 +1,6 @@
+npm create vite@latest ./
+npm create amplify@latest
+
+npx ampx sandbox
+
+npx ampx sandbox delete
